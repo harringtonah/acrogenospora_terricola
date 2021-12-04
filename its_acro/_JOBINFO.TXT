@@ -1,0 +1,14 @@
+Task\ label=its_acro
+Task\ ID=2620308
+Tool=RAXMLHPC2_TGB
+created\ on=2021-11-19 18:23:56.0
+JobHandle=NGBW-JOB-RAXMLHPC2_TGB-6A751FB281A14546A10F43250D5C7826
+RunNumber=1
+resource=expanse
+User\ ID=97418
+User\ Name=aharrington
+email=ahharrington1@gmail.com
+Output=(all_outputfiles,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=40
+JOBID=7203905
